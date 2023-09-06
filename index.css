@@ -319,7 +319,7 @@ html{
 
 .feature_main{
     width: 80%;
-    height: 300px;
+    height: auto;
     box-shadow: 20px 17px 50px -3px rgba(0,0,0,0.1),0px -9px 68px -3px rgba(0,0,0,0.1);
     padding: 30px  ;
     border-radius: 20px;
